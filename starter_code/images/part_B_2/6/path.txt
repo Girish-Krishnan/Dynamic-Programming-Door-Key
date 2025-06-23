@@ -1,0 +1,1 @@
+['MF', 'TL', 'MF', 'TR', 'PK', 'TL', 'MF', 'MF', 'UD', 'MF', 'MF', 'TR', 'MF']
