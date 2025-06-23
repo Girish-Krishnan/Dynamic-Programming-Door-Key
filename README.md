@@ -149,7 +149,7 @@ Cost: 11
 
 The optimal policy obtained from DP is used to navigate the agent in the 36 random maps. The agent's performance is evaluated in each of the random maps.
 
-**Note:** Since there are several random maps, only a few random maps are shown here as a sample. All the resulting .gif files are saved in the `gif` folder in the **Code** submission on Gradescope.
+**Note:** Since there are several random maps, only a few random maps are shown here as a sample.
 
 ### Random Map 1
 
