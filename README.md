@@ -1,6 +1,8 @@
 # ECE 276B Project 1 • Dynamic Programming for Autonomous Navigation
 
-![Demo](./media/example.gif)
+<p align="center">
+    <img src="./media/example.gif" alt="Demo">
+</p>
 
 > **Code is private.** Contact me for access.
 
